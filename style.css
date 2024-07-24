@@ -7,3 +7,10 @@ p {
 	font-size: 24px;
 	color: yellow;
 }
+
+button {
+	padding: 10px 20px;
+	background-color: #eee;
+	border: none;
+	border-radius: 10px;
+}
